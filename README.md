@@ -1,38 +1,76 @@
-### Hello, I am Javokhirbek ! 👋🌎
-I am a passionate developer motivated by building awesome projects and playing video games ☕🕹️🎮
+# Hello, I am Javokhirbek ! 👋🌎
 
-#### Statistics
-[![7yrionLannister's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbek1999&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+I am a passionate **AI Engineer** specializing in architecting infrastructure for intelligent, agentic systems and high-performance AI. I bridge the gap between complex distributed systems and production-grade LLMs, while keeping a strong love for Infrastructure for AI Workflows and Deep Learning, namely Reinforcement Learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirbek1999&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#### Some of my projects that I'm proud of
-[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=javokhirbek1999&repo=kiska-url-client&theme=dark)](https://github.com/javokhirbek1999/kiska-url-client)
-[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=javokhirbek1999&repo=kiska-url-server-side&theme=dark)](https://github.com/javokhirbek1999/kiska-url-server-side)
-[![Check Out](https://github-readme-stats.vercel.app/api/pin/?username=javokhirbek1999&repo=book-sharing-system&theme=dark)](https://github.com/javokhirbek1999/book-sharing-system)
+---
 
-## 🛠 Languages, Technologies And Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Golang](https://img.shields.io/badge/golang-white?style=for-the-badge&logo=go&logoColor=blue)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=blue)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 About Me
 
-Passionate about **GNU/Linux**
+I specialize in building the pipelines required for high-performance AI, including sophisticated context augmentation strategies, autonomous agentic workflows, and the end-to-end orchestration of model fine-tuning and evaluation.🤖 
 
-## 🏆 Github Stats
-<p align="left">
-<a href="https://github.com/javokhirbek1999/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=javokhirbek1999&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
-<a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=javokhirbek1999&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
-</p>
-<a href="https://github.com/javokhirbek1999/github-readme-activity-graph"><img alt="javokhirbek1999's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=javokhirbek1999&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
+- 🧠 **Current Focus:** Infrastructure for Agentic AI Workflows and Deep Learning, with a heavy emphasis on **Reinforcement Learning (RL)**.
+- ⚡ **Core Philosophy:** Ensuring AI systems are scalable, reliable, efficient and highly autonomous.
+
+---
+
+## 🛠 Tech Stack & Competencies
+
+### 🤖 Agentic Systems & AI Infrastructure
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-222222?style=for-the-badge&logo=protocolsio&logoColor=white)
+
+### 🔬 Model Tuning & Deep Learning
+![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-4Bit%20Quantized%20LoRA-FF9800?style=for-the-badge&logo=huggingface&logoColor=white)
+![Model Quantization](https://img.shields.io/badge/Model%20Quantization-00C853?style=for-the-badge&logo=nvidia&logoColor=white)
+![SFT](https://img.shields.io/badge/SFT-Supervised%20Fine--Tuning-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-009688?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### ⚙️ Systems & Infrastructure
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=javokhirbek1999&theme=tokyonight" 
+  width="48%" 
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=javokhirbek1999&theme=tokyonight&hide_border=true" 
+  width="48%" 
+/>
 
 <br><br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javokhirbek1999">
-</p>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javokhirbek1999&theme=tokyonight" 
+  width="48%" 
+/>
+
+<br><br>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=javokhirbek1999&style=for-the-badge&color=blue" 
+/>
+
+</div>
+
+---
+
+## 🤝 Have a Startup Idea or Want to Collaborate? Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javokhirbek-kh/)
 [![HitMeUp](https://img.shields.io/badge/contact-0072c6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaydaraliev99@gmail.com)
