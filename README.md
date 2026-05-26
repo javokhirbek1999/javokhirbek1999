@@ -1,6 +1,6 @@
 # Hello, I am Javokhirbek ! 👋🌎
 
-I am a passionate **AI Engineer** specializing in architecting infrastructure for intelligent, agentic systems and high-performance AI. I bridge the gap between complex distributed systems and production-grade LLMs, while keeping a strong love for Infrastructure for AI Workflows and Deep Learning and Reinforcement Learning.
+I am a passionate **AI Engineer** specializing in architecting infrastructure for intelligent, agentic systems and high-performance AI. I bridge the gap between complex distributed systems and production-grade LLMs, while keeping a strong love for Infrastructure for AI Workflows, Deep Learning, Diffusion Models and Reinforcement Learning.
 
 ---
 
@@ -8,7 +8,7 @@ I am a passionate **AI Engineer** specializing in architecting infrastructure fo
 
 I specialize in building the pipelines required for high-performance AI, including sophisticated context augmentation strategies, autonomous agentic workflows, and the end-to-end orchestration of model fine-tuning and evaluation.🤖 
 
-- 🧠 **Current Focus:** Infrastructure for Agentic AI Workflows and Deep Learning and also with heavy emphasis on **Reinforcement Learning (RL)**.
+- 🧠 **Current Focus:** Infrastructure for Agentic AI Workflows, GenAI using Diffusion Models, Deep Learning and also with an emphasis on **Reinforcement Learning (RL)**.
 - ⚡ **Core Philosophy:** Ensuring AI systems are scalable, reliable, efficient and highly autonomous.
 
 ---
